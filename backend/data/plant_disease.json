@@ -1,0 +1,261 @@
+{
+  "Apple___Apple_scab": {
+    "en": {
+      "name": "Apple Scab",
+      "home_remedy": "Spray neem oil or baking soda solution weekly.",
+      "doctor_remedy": "Use Captan or Mancozeb fungicide."
+    },
+    "hi": {
+      "name": "सेब का स्कैब रोग",
+      "home_remedy": "नीम तेल या बेकिंग सोडा का छिड़काव करें।",
+      "doctor_remedy": "कैप्टन या मैनकोजेब का प्रयोग करें।"
+    }
+  },
+
+  "Apple___Black_rot": {
+    "en": {
+      "name": "Apple Black Rot",
+      "home_remedy": "Remove infected fruits and spray neem water.",
+      "doctor_remedy": "Apply Thiophanate-methyl fungicide."
+    },
+    "hi": {
+      "name": "सेब का ब्लैक रॉट",
+      "home_remedy": "संक्रमित फल हटाएं और नीम पानी छिड़कें।",
+      "doctor_remedy": "थायोफेनेट मिथाइल का प्रयोग करें।"
+    }
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "en": {
+      "name": "Cedar Apple Rust",
+      "home_remedy": "Spray neem oil and avoid excess moisture.",
+      "doctor_remedy": "Use Myclobutanil fungicide."
+    },
+    "hi": {
+      "name": "सेडर सेब रस्ट",
+      "home_remedy": "नीम तेल का छिड़काव करें।",
+      "doctor_remedy": "माइकलोब्यूटानिल का प्रयोग करें।"
+    }
+  },
+
+  "Apple___healthy": {
+    "en": {
+      "name": "Healthy Apple Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ सेब पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  },
+
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "en": {
+      "name": "Gray Leaf Spot",
+      "home_remedy": "Remove affected leaves and spray neem extract.",
+      "doctor_remedy": "Apply Mancozeb fungicide."
+    },
+    "hi": {
+      "name": "ग्रे लीफ स्पॉट",
+      "home_remedy": "संक्रमित पत्तियाँ हटाएं।",
+      "doctor_remedy": "मैनकोजेब का प्रयोग करें।"
+    }
+  },
+
+  "Corn___Common_rust": {
+    "en": {
+      "name": "Corn Common Rust",
+      "home_remedy": "Spray neem extract weekly.",
+      "doctor_remedy": "Apply Propiconazole fungicide."
+    },
+    "hi": {
+      "name": "मक्का का कॉमन रस्ट",
+      "home_remedy": "नीम अर्क का छिड़काव करें।",
+      "doctor_remedy": "प्रोपिकोनाजोल का प्रयोग करें।"
+    }
+  },
+
+  "Corn___Northern_Leaf_Blight": {
+    "en": {
+      "name": "Northern Leaf Blight",
+      "home_remedy": "Ensure good airflow and remove infected leaves.",
+      "doctor_remedy": "Use Chlorothalonil fungicide."
+    },
+    "hi": {
+      "name": "नॉर्दर्न लीफ ब्लाइट",
+      "home_remedy": "संक्रमित पत्तियाँ हटाएं।",
+      "doctor_remedy": "क्लोरोथालोनिल का प्रयोग करें।"
+    }
+  },
+
+  "Corn___healthy": {
+    "en": {
+      "name": "Healthy Corn Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ मक्का पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  },
+
+  "Grape___Black_rot": {
+    "en": {
+      "name": "Grape Black Rot",
+      "home_remedy": "Remove infected grapes and spray neem oil.",
+      "doctor_remedy": "Apply Mancozeb fungicide."
+    },
+    "hi": {
+      "name": "अंगूर का ब्लैक रॉट",
+      "home_remedy": "संक्रमित अंगूर हटाएं।",
+      "doctor_remedy": "मैनकोजेब का प्रयोग करें।"
+    }
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "en": {
+      "name": "Grape Esca (Black Measles)",
+      "home_remedy": "Prune infected vines.",
+      "doctor_remedy": "Use Triazole fungicides."
+    },
+    "hi": {
+      "name": "अंगूर का एस्का रोग",
+      "home_remedy": "संक्रमित टहनियाँ काटें।",
+      "doctor_remedy": "ट्रायजोल फफूंदनाशक का प्रयोग करें।"
+    }
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "en": {
+      "name": "Grape Leaf Blight",
+      "home_remedy": "Spray neem oil solution.",
+      "doctor_remedy": "Apply Copper fungicide."
+    },
+    "hi": {
+      "name": "अंगूर का लीफ ब्लाइट",
+      "home_remedy": "नीम तेल का छिड़काव करें।",
+      "doctor_remedy": "कॉपर का प्रयोग करें।"
+    }
+  },
+
+  "Grape___healthy": {
+    "en": {
+      "name": "Healthy Grape Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ अंगूर पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "en": {
+      "name": "Citrus Greening",
+      "home_remedy": "Remove infected plants and control insects.",
+      "doctor_remedy": "No cure; manage with insecticides."
+    },
+    "hi": {
+      "name": "साइट्रस ग्रीनिंग रोग",
+      "home_remedy": "संक्रमित पौधे हटाएं।",
+      "doctor_remedy": "कीट नियंत्रण करें।"
+    }
+  },
+
+  "Orange___healthy": {
+    "en": {
+      "name": "Healthy Orange Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ संतरा पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  },
+
+  "Potato___Early_blight": {
+    "en": {
+      "name": "Potato Early Blight",
+      "home_remedy": "Spray neem extract and remove affected leaves.",
+      "doctor_remedy": "Apply Mancozeb fungicide."
+    },
+    "hi": {
+      "name": "आलू का अर्ली ब्लाइट",
+      "home_remedy": "नीम अर्क छिड़कें।",
+      "doctor_remedy": "मैनकोजेब का प्रयोग करें।"
+    }
+  },
+
+  "Potato___Late_blight": {
+    "en": {
+      "name": "Potato Late Blight",
+      "home_remedy": "Avoid excess moisture and spray baking soda solution.",
+      "doctor_remedy": "Use Ridomil Gold fungicide."
+    },
+    "hi": {
+      "name": "आलू का लेट ब्लाइट",
+      "home_remedy": "अधिक नमी से बचें।",
+      "doctor_remedy": "रिडोमिल गोल्ड का प्रयोग करें।"
+    }
+  },
+
+  "Potato___healthy": {
+    "en": {
+      "name": "Healthy Potato Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ आलू पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  },
+
+  "Tomato___Early_blight": {
+    "en": {
+      "name": "Tomato Early Blight",
+      "home_remedy": "Remove infected leaves and spray neem water.",
+      "doctor_remedy": "Apply Mancozeb fungicide."
+    },
+    "hi": {
+      "name": "टमाटर का अर्ली ब्लाइट",
+      "home_remedy": "संक्रमित पत्तियाँ हटाएं।",
+      "doctor_remedy": "मैनकोजेब का प्रयोग करें।"
+    }
+  },
+
+  "Tomato___Late_blight": {
+    "en": {
+      "name": "Tomato Late Blight",
+      "home_remedy": "Avoid overwatering and spray baking soda solution.",
+      "doctor_remedy": "Use Chlorothalonil fungicide."
+    },
+    "hi": {
+      "name": "टमाटर का लेट ब्लाइट",
+      "home_remedy": "अधिक पानी से बचें।",
+      "doctor_remedy": "क्लोरोथालोनिल का प्रयोग करें।"
+    }
+  },
+
+  "Tomato___healthy": {
+    "en": {
+      "name": "Healthy Tomato Plant",
+      "home_remedy": "No treatment needed.",
+      "doctor_remedy": "No medicine required."
+    },
+    "hi": {
+      "name": "स्वस्थ टमाटर पौधा",
+      "home_remedy": "कोई उपचार आवश्यक नहीं।",
+      "doctor_remedy": "कोई दवा आवश्यक नहीं।"
+    }
+  }
+}

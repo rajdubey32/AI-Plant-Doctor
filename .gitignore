@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+backend/uploads/*
+!backend/uploads/.gitkeep

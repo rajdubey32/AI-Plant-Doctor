@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+/* scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #165a55; border-radius: 4px; }
+
+/*  Hindi / Devanagari text safe rendering */
+body {
+  line-height: 1.35;
+  overflow-x: hidden;
+}
+
+/*  Headings ke liye extra vertical space (Hindi fix) */
+h1, h2, h3 {
+  line-height: 1.35;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+}
+
+/* Gradient text clipping fix (Tailwind bg-clip-text issue) */
+.bg-clip-text {
+  -webkit-text-fill-color: transparent;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+/*  Sticky / blur containers me text cut na ho */
+header, .backdrop-blur-md {
+  overflow: visible !important;
+}
+
+/*  Hindi font rendering improvement */
+html {
+  text-rendering: optimizeLegibility;
+}
